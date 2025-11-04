@@ -31,7 +31,7 @@ The main objective is to support **data-driven decision making** by visualizing 
 **File:** [`salesdashbord.pbix`](salesdashbord.pbix)  
 
 **Preview:**
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_image.png)
 
 ------
 
